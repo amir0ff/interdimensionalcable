@@ -1,0 +1,22 @@
+{
+  "name": "interdimensionalcable",
+  "version": "1.0.0",
+  "description": "https://inter-dimensionalcable.xyz",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiroff157/interdimensionalcable.git"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "console-stamp": "^3.0.3",
+    "express": "^4.17.1"
+  },
+  "keywords": [
+    "adult-swim",
+    "rockandmorty"
+  ]
+}
